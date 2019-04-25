@@ -1,3 +1,4 @@
+<img src="https://github.com/zts117/vue-scaffold/blob/master/1.png" alt="Udemy Translate" height:='500' width="1400" />
 # vue-scaffold
 vue脚手架
 1. less使用 （减少css重复写 提高代码复用性）
