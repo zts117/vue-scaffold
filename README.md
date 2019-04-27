@@ -1,4 +1,6 @@
 <img src="https://github.com/zts117/vue-scaffold/blob/master/1.png" alt="Udemy Translate" height:='500' width="1400" />
+
+配置px 转成 rem单位 适配移动端 
 # vue-scaffold
 vue脚手架
 1. less使用 （减少css重复写 提高代码复用性）
@@ -43,10 +45,4 @@ vue脚手架
      })
 6. npm run build 打包后进入dist 
 双击index 发现app*****.js（638 B）vender*****.js（805 B）
-
-使用：
-    项目拉下来后
-    1.npm i
-    2.npm run dev
-    3.npm run build
 
