@@ -25,10 +25,10 @@ module.exports = {
     app: './src/main.js'
   },
   // cdn引入 优化
-  externals: {
-    'vue': 'Vue',
-    'vue-router': 'VueRouter',
-  },
+  // externals: {
+  //   'vue': 'Vue',
+  //   'vue-router': 'Router',
+  // },
   output: {
     path: config.build.assetsRoot,
     filename: '[name].js',

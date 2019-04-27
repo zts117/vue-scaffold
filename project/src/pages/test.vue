@@ -2,6 +2,10 @@
   <div class="test">
     <public-header></public-header>
     测试测试
+    <div style="padding: 0 18px">
+      <!-- <img style="width: 100%;height: 200px;" src="assets/images/flowers.jpg" alt=""> -->
+      <img style="width: 100%;" src="@/assets/images/flowers.jpg" alt="flowers">
+    </div>
     <public-footer></public-footer>
   </div>
 </template>
